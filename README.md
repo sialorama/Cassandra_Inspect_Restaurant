@@ -14,4 +14,4 @@ Nous avos également créer une API qui propose 4 url pour accéder :
     - Au nombre d'inspection d'un restaurant à partir de son id restaurant,
     - Les noms des 10 premiers restaurants d'un grade donné.
 
-Nous avons également réalisé une page html pour facilité l'accès à ces requetes.
+Nous avons également réalisé une page accueil.html pour facilité l'accès à ces requetes.
